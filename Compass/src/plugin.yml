@@ -1,0 +1,7 @@
+main: me.MelonNootFound.Compass.Main
+name: Compass
+author: MelonNootFound
+version: 1.0
+
+commands:
+  Compass:
