@@ -7,7 +7,7 @@ plugin that tracks players in spigot minecraft
 /compass disallow - disallows all players from tracking you <br>
 /compass track [player] - sets your compass to track [player] <br>
 /compass reset - resets compass to track spawn <br>
-/compass bed - sets your compass to track your bed <br>
+/compass bed - sets your compass to track your bed 
 
 ## Download
 1. download Compass.jar from the repository
