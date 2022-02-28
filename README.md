@@ -10,7 +10,7 @@ plugin that tracks players in spigot minecraft
 /compass bed - sets your compass to track your bed 
 
 ## Download
-1. download Compass.jar from the repository
+1. download `Compass.jar` from the repository
 2. move the file to the "plugins" folder for your server
 3. restart your server
 4. check to see if the plugin is active by running /plugins
